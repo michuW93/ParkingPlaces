@@ -40,7 +40,7 @@ public class ParkingSystem {
         } else if (medium > 0) {
             this.medium--;
         } else if (big > 0) {
-            this.small--;
+            this.big--;
         }
         return true;
     }
