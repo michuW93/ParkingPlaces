@@ -15,3 +15,5 @@ Example:
 * ps.addCar(2); //true, medium car takes medium place
 * ps.addCar(2); //true, medium car takes big place
 * ps.addCar(1); //false, no place for big car
+
+https://codereview.stackexchange.com/questions/260181/parking-places-design
