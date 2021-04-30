@@ -54,6 +54,6 @@ public class ParkingSystem {
     }
 
     private boolean isPlaceForSmallCar() {
-        return (this.big > 0 || this.medium > 0);
+        return (this.big > 0 || this.medium > 0 || this.small > 0);
     }
 }
